@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sonic": {
+      "command": "npx",
+      "args": ["-y", "@captchasonic/mcp-server"],
+      "env": {
+        "SONIC_API_KEY": ""
+      }
+    }
+  }
+}

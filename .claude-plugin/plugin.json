@@ -1,0 +1,9 @@
+{
+  "name": "captchasonic",
+  "version": "1.0.0",
+  "description": "Solve any CAPTCHA with AI — reCAPTCHA, Cloudflare Turnstile, Geetest, AWS WAF, TikTok, OCR and more. MCP server + Claude skills for captcha solving.",
+  "author": "CaptchaSonic",
+  "homepage": "https://captchasonic.com",
+  "repository": "https://github.com/captchasonic/captchasonic-skill",
+  "license": "MIT"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "captchasonic",
+  "owner": {
+    "name": "CaptchaSonic",
+    "email": "support@captchasonic.com"
+  },
+  "metadata": {
+    "description": "Solve any CAPTCHA with AI — reCAPTCHA, Cloudflare Turnstile, Geetest, AWS WAF, TikTok, OCR and more. Includes MCP server for Claude and all AI agents.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "captchasonic",
+      "source": "./",
+      "description": "Solve any CAPTCHA with AI — reCAPTCHA, Cloudflare Turnstile, Geetest, AWS WAF, TikTok, Binance, OCR and more. Provides MCP server integration with 3 tools: health_check, get_balance, solve_captcha.",
+      "version": "1.0.0",
+      "author": { "name": "CaptchaSonic" },
+      "homepage": "https://captchasonic.com",
+      "category": "development",
+      "keywords": [
+        "captcha",
+        "captchasonic",
+        "mcp",
+        "recaptcha",
+        "turnstile",
+        "geetest",
+        "cloudflare",
+        "ocr",
+        "solver",
+        "ai-agent",
+        "automation"
+      ]
+    }
+  ]
+}
